@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/bell-pepper-8079_256.gif</file>
+        <file>ui/Green_Off.png</file>
+        <file>ui/MainScreen/mainscreen.qml</file>
+        <file>ui/MenberInformation/menberinformation.qml</file>
+        <file>ui/ProjectInformation/projectinformation.qml</file>
+        <file>ui/EditInformation/editinformation.qml</file>
+    </qresource>
+</RCC>
